@@ -1,0 +1,75 @@
+List size is 10
+list[000]=001
+list[001]=002
+list[002]=003
+list[003]=004
+list[004]=005
+list[005]=006
+list[006]=007
+list[007]=008
+list[008]=009
+list[009]=010
+Removing an element after the one containing 008
+List size is 9
+list[000]=001
+list[001]=002
+list[002]=003
+list[003]=004
+list[004]=005
+list[005]=006
+list[006]=007
+list[007]=008
+list[008]=010
+Inserting 011 at the tail of the list
+List size is 10
+list[000]=001
+list[001]=002
+list[002]=003
+list[003]=004
+list[004]=005
+list[005]=006
+list[006]=007
+list[007]=008
+list[008]=010
+list[009]=011
+Removing an element after the first element
+List size is 9
+list[000]=001
+list[001]=003
+list[002]=004
+list[003]=005
+list[004]=006
+list[005]=007
+list[006]=008
+list[007]=010
+list[008]=011
+Inserting 012 at the head of the list
+List size is 10
+list[000]=012
+list[001]=001
+list[002]=003
+list[003]=004
+list[004]=005
+list[005]=006
+list[006]=007
+list[007]=008
+list[008]=010
+list[009]=011
+Iterating and removing the fourth element
+List size is 9
+list[000]=012
+list[001]=001
+list[002]=003
+list[003]=005
+list[004]=006
+list[005]=007
+list[006]=008
+list[007]=010
+list[008]=011
+Inserting 013 after the first element
+Data is not inserted to linked list
+Testing list_is_head...Value=1 (1=OK)
+Testing list_is_head...Value=0 (0=OK)
+Testing list_is_tail...Value=1 (1=OK)
+Testing list_is_tail...Value=0 (0=OK)
+Destroying the list

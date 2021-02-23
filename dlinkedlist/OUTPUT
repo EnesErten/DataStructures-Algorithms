@@ -1,0 +1,121 @@
+List size is 10
+list[000]=001
+list[001]=002
+list[002]=003
+list[003]=004
+list[004]=005
+list[005]=006
+list[006]=007
+list[007]=008
+list[008]=009
+list[009]=010
+Removing an element after the one containing 009
+List size is 9
+list[000]=001
+list[001]=002
+list[002]=003
+list[003]=004
+list[004]=005
+list[005]=006
+list[006]=007
+list[007]=008
+list[008]=010
+Inserting 011 at the tail of the list
+List size is 10
+list[000]=001
+list[001]=002
+list[002]=003
+list[003]=004
+list[004]=005
+list[005]=006
+list[006]=007
+list[007]=008
+list[008]=010
+list[009]=011
+Removing an element at the tail of the list
+List size is 9
+list[000]=001
+list[001]=002
+list[002]=003
+list[003]=004
+list[004]=005
+list[005]=006
+list[006]=007
+list[007]=008
+list[008]=010
+Inserting 012 just before the tail of the list
+List size is 10
+list[000]=001
+list[001]=002
+list[002]=003
+list[003]=004
+list[004]=005
+list[005]=006
+list[006]=007
+list[007]=008
+list[008]=012
+list[009]=010
+Iterating and removing the fourth element
+List size is 9
+list[000]=001
+list[001]=002
+list[002]=003
+list[003]=005
+list[004]=006
+list[005]=007
+list[006]=008
+list[007]=012
+list[008]=010
+Inserting 013 before the first element
+List size is 10
+list[000]=013
+list[001]=001
+list[002]=002
+list[003]=003
+list[004]=005
+list[005]=006
+list[006]=007
+list[007]=008
+list[008]=012
+list[009]=010
+Removing an element at the head of the list
+List size is 9
+list[000]=001
+list[001]=002
+list[002]=003
+list[003]=005
+list[004]=006
+list[005]=007
+list[006]=008
+list[007]=012
+list[008]=010
+Inserting 014 just after the head of the list
+List size is 10
+list[000]=001
+list[001]=014
+list[002]=002
+list[003]=003
+list[004]=005
+list[005]=006
+list[006]=007
+list[007]=008
+list[008]=012
+list[009]=010
+Inserting 015 two elements after the head of the list
+List size is 11
+list[000]=001
+list[001]=014
+list[002]=015
+list[003]=002
+list[004]=003
+list[005]=005
+list[006]=006
+list[007]=007
+list[008]=008
+list[009]=012
+list[010]=010
+Testing dlist_is_head...Value=1 (1=OK)
+Testing dlist_is_head...Value=0 (0=OK)
+Testing dlist_is_tail...Value=1 (1=OK)
+Testing dlist_is_tail...Value=0 (0=OK)
+Destroying the list
