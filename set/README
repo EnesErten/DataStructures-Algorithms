@@ -1,4 +1,0 @@
-# The code implementation Based on the Mastering Algorithms with C book.
-# When running the code in the first time firstly type sh build.sh or cd to file ./build.sh.
-# after that you can run the code with ./a.out (of course cd command to that file) ||  sh run.sh || ./run.sh
-
